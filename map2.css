@@ -1,0 +1,8 @@
+.home{
+			background: url(loc.jpg);
+			background-size:cover;
+			background-attachment: scroll;
+			background-repeat: no-repeat;
+			height: 1010px;
+			width: 80px;
+		}
